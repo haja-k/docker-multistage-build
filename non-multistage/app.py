@@ -1,0 +1,1 @@
+print("Hello, Docker Multi-Stage Builds for Python!")
